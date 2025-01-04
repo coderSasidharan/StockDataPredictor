@@ -88,3 +88,10 @@ def plot_compare_data():
     st.plotly_chart(fig)
 
 plot_compare_data()
+
+
+st.markdown("---")
+
+st.markdown(
+    "https://github.com/coderSasidharan/StockDataPredictor"
+)
